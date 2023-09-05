@@ -1,0 +1,157 @@
+.for-form{
+			background-color: white;
+			box-shadow: 2px 3px 10px 0 rgba(0, 0, 0, 0.2) ;
+			border-radius: 5px;
+			width: 300px;
+			padding-top: 8px;
+			padding-bottom: 35px;
+			padding-right: 25px;align-items: center;
+			justify-content: center;
+			padding-left: 25px;
+			margin: 0 auto;	
+			margin-top: 40px;	    }
+
+.for-body{
+				background-color: rgba(0, 0, 0, 0.06);
+		}
+
+.for-h1{
+        font-family: Arial;
+        font-size: 25px;
+        font-weight: bold;
+        margin-bottom: 2px;
+        }
+
+.first-text{
+           font-family: Arial;
+           font-size: 14px;
+           margin-top: 4px;
+          }
+
+.blue-text{
+	       color: blue;
+             }
+
+.details-button{
+             background-color: rgba(0, 0, 0, 0.07);
+             color: rgba(0, 0, 0, 0.8);
+             border: none;
+             padding-left: 15px;
+             padding-top: 10px;
+             padding-bottom: 10px ;
+             border-radius: 14px;
+             width: 270px;
+             display: block;
+
+
+              }
+
+.details-button2{
+             background-color: rgba(0, 0, 0, 0.07);
+             color: rgba(0, 0, 0, 0.8);
+             border: none;
+             padding-left: 15px;
+             padding-top: 10px;
+             padding-bottom: 10px ;
+             border-radius: 14px;
+             margin-top: 10px;
+             width: 270px;
+             display: block;
+              }
+
+.blue-text2{
+	         display: inline-block;
+	         color: blue;
+	         font-size: 14px;
+	         font-family: Arial;
+	         cursor: pointer;
+	         margin-top: 20px;
+
+}
+
+.blue-button{
+	         color: white;
+	         border-radius: 20px;
+	         border: none;
+	         background-color: blue;
+	         padding-top: 7px;
+             padding-bottom: 7px ;
+             padding-left: 30px;
+             padding-right: 30px;
+             display: inline-block;
+             margin-left: 70px;
+             cursor: pointer;
+             margin-top: 20px;
+}
+
+.for-google-button{
+            background-color: white;
+            border-color: rgba(0, 0, 0, 0.1);
+            border-width: 2px;
+            border-radius: 20px;
+            display: block;
+            /*padding-left: 90px;
+            padding-right: 90px;
+            padding-top: 10px;
+            padding-bottom: 10px;*/
+            margin-top: 20px;
+            height: 45px;
+            width: 300px;
+}
+
+.for-facebook-button{
+            background-color: white;
+            border-color: rgba(0, 0, 0, 0.1);
+            border-width: 2px;
+            border-radius: 20px;
+            display: block;
+            /*padding-left: 90px;
+            padding-right: 90px;
+            padding-top: 10px;
+            padding-bottom: 10px;*/
+            margin-top: 15px;
+             height: 45px;
+            width: 300px;
+
+}
+
+.for-apple-button{
+	   background-color: white;
+            border-color: rgba(0, 0, 0, 0.1);
+            border-width: 2px;
+            border-radius: 20px;
+            display: block;
+            padding-left: 90px;
+            padding-right: 90px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-top: 15px;
+            height: 45px;
+            width: 300px;
+}
+
+.for-hr1{
+	       width: 110px;
+	       display: inline-block;
+	       vertical-align: middle;
+         }
+
+.for-or{
+     color: grey;
+     display: inline-block;
+     margin-left: 10px;
+     margin-right: 10px ;
+     vertical-align: middle;
+}
+
+.for-hr2{
+	width: 110px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.for-middle{
+	padding-left: 10px;
+	padding-right: 10px;
+
+}

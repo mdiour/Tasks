@@ -1,0 +1,88 @@
+.for-body{
+	background-color: rgba(0, 0, 0, 0.03);
+}
+
+.for-login-text{
+	font-family: Arial;
+	font-size: 12px;
+	text-align: center; 
+	color: rgba(0, 0, 0, 0.7);  
+}
+
+.for-form{
+	margin: 0 auto;
+	background-color: white;
+	border: none;
+	box-shadow: 1px 2px 8px 0 rgba(0, 0, 0, 0.07);
+	width: 250px;
+	height: 200px;
+	border-radius: 7px;
+	padding-top: 10px;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-bottom: 40px;
+}
+
+.for-email{
+	font-family: Arial;
+    font-size: 13px ;
+    color: rgba(0, 0, 0, 0.7);
+    margin-bottom: 3px;
+    /*color: white;*/
+
+}
+
+.for-email-input{
+     border-radius: 3px;
+     border-width: 1px;
+     border-color: rgba(0, 0, 0, 0.15);
+     width: 235px;
+     height: 20px;
+     padding-top: 5px;
+	 padding-right: 3px;
+	 padding-left: 6px;
+	 padding-bottom: 5px;
+}
+
+.for-email-input: active{
+	border: none;
+}
+
+.for-password{
+	font-family: Arial;
+	font-size: 13px ;
+	margin-bottom: 3px;
+	color: rgba(0, 0, 0, 0.7);
+
+}
+
+.for-password-input{
+    display: inline-block;
+    border-radius: 3px;
+     border-width: 1px;
+     border-color: rgba(0, 0, 0, 0.15);
+     width: 235px;
+     height: 20px;
+     padding-top: 5px;
+	 padding-right: 3px;
+	 padding-left: 6px;
+	 padding-bottom: 5px;
+}
+
+.for-login{
+	 display: inline-block;
+     border-radius: 15px;
+     border-width: 1px;
+     width: 240px;
+     height: 30px;
+     padding-top: 5px;
+	 padding-right: 3px;
+	 padding-left: 6px;
+	 padding-bottom: 5px;
+	 margin-top: 20px;
+	 background-color: rgba(0, 102, 102, 1.0);
+	 color: white;
+	 border: none;
+	 font-weight: bold;
+    
+}
